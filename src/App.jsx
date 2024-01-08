@@ -1,6 +1,6 @@
 import './App.css';
-import LikeImage from './components/WithOutAnything.jsx/LikeImage';
-import LikePost from './components/WithOutAnything.jsx/LikePost';
+import LikeImage from './components/WithOutAnything/LikeImage';
+import LikePost from './components/WithOutAnything/LikePost';
 import LikeimageUsingHOC from './components/WithUsingHOC/LikeimageUsingHOC'
 import LikePostUsingHOC from './components/WithUsingHOC/LikePostUsingHOC'
 import LikeImageUsingProps from './components/WithUsingProps/LikeImageUsingProps';
